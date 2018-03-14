@@ -1,0 +1,31 @@
+nav {
+  background-color: #4cbc7e !important;
+}
+.top{
+  margin-bottom: -55px;
+}
+.left {
+  background-color: #58a6d1;
+}
+.right {
+  background-color: #8567AD;
+  margin-bottom: 20px;
+}
+.contentLeft{
+  height: 250px;
+}
+.contentRight{
+  height: 115px;
+}
+.contentBottom{
+  background-color: #79B875;
+  height: 60px;
+}
+svg{
+  position: relative;
+  top: -60px;
+  left: -23px;
+}
+circle{
+  fill: #D45253;
+}
